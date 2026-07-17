@@ -21,8 +21,8 @@ Power connections:
 - Red wire → 5V
 - Black wire → GND
 - Orange wire → Signal Pin
--brown wire → Negitive 
--yellow wire →postive
+- brown wire → Negitive 
+- yellow wire →postive
 
 ## Program Behavior
 
